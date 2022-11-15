@@ -1,10 +1,20 @@
 # Анализ мобильного приложения 'Ненужные вещи' 
 
 ## Цель исследования:
+
 В процессе анализа необходимо выявить слабые и сильные стороны приложения, и на основе полученных данных дать рекомендации по его улучшению. 
 
 ## Используемые библиотеки:
+
 pandas, matplotlib.pyplot, seaborn, numpy, scipy.stats, math, plotly.express, matplotlib.dates
+
+## Ссылка на дашборд
+
+https://public.tableau.com/app/profile/ekaterina8580/viz/_16658435616330/Dashboard1
+
+## Ссылка на презентацию 
+
+https://disk.yandex.ru/i/MeCP-5qQufaDjg
 
 ## Ход работы и общие выводы
 
